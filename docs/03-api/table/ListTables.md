@@ -76,4 +76,4 @@ for table in response.body.data.tables:
 
 ## 相关API
 
-- [GetTable](table/GetTable.md) - 获取表详情
+- [GetTable](GetTable.md) - 获取表详情

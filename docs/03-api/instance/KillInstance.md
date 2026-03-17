@@ -73,5 +73,5 @@ response = client.kill_instance(request)
 
 ## 相关API
 
-- [GetInstance](instance/GetInstance.md) - 获取实例状态
-- [RunNode](node/RunNode.md) - 重新运行
+- [GetInstance](GetInstance.md) - 获取实例状态
+- [RunNode](../node/RunNode.md) - 重新运行

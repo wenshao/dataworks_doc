@@ -100,7 +100,7 @@ print(f"代码: {file.code}")
 
 ## 相关API
 
-- [CreateFile](file/CreateFile.md) - 创建文件
-- [UpdateFile](file/UpdateFile.md) - 修改文件
-- [ListFiles](file/ListFiles.md) - 获取文件列表
-- [DeleteFile](file/DeleteFile.md) - 删除文件
+- [CreateFile](CreateFile.md) - 创建文件
+- [UpdateFile](UpdateFile.md) - 修改文件
+- [ListFiles](ListFiles.md) - 获取文件列表
+- [DeleteFile](DeleteFile.md) - 删除文件

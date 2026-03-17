@@ -95,5 +95,5 @@ for f in files:
 
 ## 相关API
 
-- [GetFile](file/GetFile.md) - 获取文件详情
-- [CreateFile](file/CreateFile.md) - 创建文件
+- [GetFile](GetFile.md) - 获取文件详情
+- [CreateFile](CreateFile.md) - 创建文件

@@ -92,6 +92,6 @@ print(f"结束时间: {instance.end_time}")
 
 ## 相关API
 
-- [RunNode](node/RunNode.md) - 运行节点
-- [ListInstances](instance/ListInstances.md) - 获取实例列表
-- [KillInstance](instance/KillInstance.md) - 终止实例
+- [RunNode](../node/RunNode.md) - 运行节点
+- [ListInstances](ListInstances.md) - 获取实例列表
+- [KillInstance](KillInstance.md) - 终止实例

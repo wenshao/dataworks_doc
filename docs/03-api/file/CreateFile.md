@@ -158,11 +158,11 @@ CreateFile → UpdateFile(可选) → DeployFile → RunNode
 
 ## 相关API
 
-- [UpdateFile](file/UpdateFile.md) - 修改文件
-- [GetFile](file/GetFile.md) - 获取文件详情
-- [ListFiles](file/ListFiles.md) - 获取文件列表
-- [DeleteFile](file/DeleteFile.md) - 删除文件
-- [DeployFile](file/DeployFile.md) - 提交发布
+- [UpdateFile](UpdateFile.md) - 修改文件
+- [GetFile](GetFile.md) - 获取文件详情
+- [ListFiles](ListFiles.md) - 获取文件列表
+- [DeleteFile](DeleteFile.md) - 删除文件
+- [DeployFile](DeployFile.md) - 提交发布
 
 ## 相关任务
 

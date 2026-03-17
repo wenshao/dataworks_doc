@@ -109,4 +109,4 @@ for col in table.columns:
 
 ## 相关API
 
-- [ListTables](table/ListTables.md) - 获取表列表
+- [ListTables](ListTables.md) - 获取表列表

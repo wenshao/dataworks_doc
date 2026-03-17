@@ -94,6 +94,6 @@ instance_id = response.body.data.instance_id
 
 ## 相关API
 
-- [GetInstance](instance/GetInstance.md) - 获取实例状态
-- [ListInstances](instance/ListInstances.md) - 获取实例列表
-- [KillInstance](instance/KillInstance.md) - 终止实例
+- [GetInstance](../instance/GetInstance.md) - 获取实例状态
+- [ListInstances](../instance/ListInstances.md) - 获取实例列表
+- [KillInstance](../instance/KillInstance.md) - 终止实例

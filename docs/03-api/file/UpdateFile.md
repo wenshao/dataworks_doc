@@ -153,6 +153,6 @@ response = client.update_file(request)
 
 ## 相关API
 
-- [CreateFile](file/CreateFile.md) - 创建文件
-- [GetFile](file/GetFile.md) - 获取文件详情
-- [DeployFile](file/DeployFile.md) - 提交发布
+- [CreateFile](CreateFile.md) - 创建文件
+- [GetFile](GetFile.md) - 获取文件详情
+- [DeployFile](DeployFile.md) - 提交发布

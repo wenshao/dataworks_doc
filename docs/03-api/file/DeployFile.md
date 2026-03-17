@@ -81,5 +81,5 @@ CreateFile → UpdateFile(可选) → DeployFile → RunNode
 
 ## 相关API
 
-- [CreateFile](file/CreateFile.md) - 创建文件
-- [RunNode](node/RunNode.md) - 运行节点
+- [CreateFile](CreateFile.md) - 创建文件
+- [RunNode](../node/RunNode.md) - 运行节点

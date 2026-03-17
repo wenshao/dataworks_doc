@@ -76,5 +76,5 @@ response = client.list_instances(request)
 
 ## 相关API
 
-- [GetInstance](instance/GetInstance.md) - 获取实例详情
-- [RunNode](node/RunNode.md) - 运行节点
+- [GetInstance](GetInstance.md) - 获取实例详情
+- [RunNode](../node/RunNode.md) - 运行节点
