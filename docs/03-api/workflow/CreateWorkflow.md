@@ -84,4 +84,4 @@ workflow_id = response.body.data.workflow_id
 ## 相关API
 
 - [CreateFile](../file/CreateFile.md) - 创建节点
-- [UpdateNode](../node/UpdateNode.md) - 配置节点依赖
+- [UpdateFile](../file/UpdateFile.md) - 修改节点配置
