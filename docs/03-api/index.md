@@ -79,7 +79,7 @@ category: API参考
 | 参数 | `InvalidParameter`, `MissingParameter` |
 | 限流 | `Throttling`, `Throttling.User`, `Throttling.Api` |
 
-详细错误码见：[错误码速查](../../05-reference/error-codes.md)
+详细错误码见：[错误码速查](../05-reference/error-codes.md)
 
 ## 快速导航
 
