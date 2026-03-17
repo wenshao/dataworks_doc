@@ -38,7 +38,7 @@ request = dataworks_models.ListWorkspacesRequest(
 response = client.list_workspaces(request)
 ```
 
-[→ 详细教程](../02-tasks/manage-instance/query-workspace.md)
+[→ API 文档](../03-api/index.md#工作空间管理)
 
 ---
 
@@ -101,7 +101,7 @@ response = client.get_instance(request)
 status = response.body.data.status  # SUCCESS/FAILED/RUNNING
 ```
 
-[→ 详细教程](../02-tasks/manage-instance/check-status.md)
+[→ 查询实例状态](../03-api/instance/GetInstance.md)
 
 ---
 

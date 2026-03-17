@@ -261,6 +261,5 @@ A: 取决于 `writeMode`：`append` 追加，`overwrite` 覆盖，`nonconflict` 
 
 ## 相关教程
 
-- [Oracle 同步到 MaxCompute](oracle-to-odps.md)
-- [实时数据同步](realtime-sync.md)
-- [查询同步状态](../manage-instance/check-status.md)
+- [运行节点](../manage-instance/run-node.md) - 手动运行同步任务
+- [查询实例状态](../../03-api/instance/GetInstance.md) - 查看任务运行结果

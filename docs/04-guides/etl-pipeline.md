@@ -320,5 +320,5 @@ class ETLFlowMonitor:
 
 ## 相关教程
 
-- [搭建数据仓库](data-warehouse.md)
-- [数据质量保障](data-quality.md)
+- [创建工作流](../02-tasks/develop-node/workflow.md)
+- [MySQL 同步到 MaxCompute](../02-tasks/sync-data/mysql-to-odps.md)

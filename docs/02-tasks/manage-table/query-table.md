@@ -268,6 +268,4 @@ print(f"\n找到 {len(results)} 张包含 'user' 的表")
 
 ## 相关教程
 
-- [创建数据表](create-table.md)
-- [修改表结构](alter-table.md)
-- [数据表 API 参考](../../03-api/table/index.md)
+- [数据表 API 参考](../../03-api/table/GetTable.md)

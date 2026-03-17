@@ -83,6 +83,5 @@ workflow_id = response.body.data.workflow_id
 
 ## 相关API
 
-- [UpdateWorkflow](workflow/UpdateWorkflow.md) - 修改工作流
-- [GetWorkflow](workflow/GetWorkflow.md) - 获取工作流详情
-- [DeleteWorkflow](workflow/DeleteWorkflow.md) - 删除工作流
+- [CreateFile](../file/CreateFile.md) - 创建节点
+- [UpdateNode](../node/UpdateNode.md) - 配置节点依赖

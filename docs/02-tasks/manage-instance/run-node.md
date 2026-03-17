@@ -239,6 +239,5 @@ if success:
 
 ## 相关教程
 
-- [查询实例状态](check-status.md)
-- [终止实例运行](kill-instance.md)
-- [补数据](patch-data.md)
+- [GetInstance API](../../03-api/instance/GetInstance.md) - 查询实例状态
+- [KillInstance API](../../03-api/instance/KillInstance.md) - 终止实例运行

@@ -213,6 +213,5 @@ instance_id = manager.run('your_workspace_id', file_id, '20250101')
 
 ## 相关教程
 
-- [创建 Shell 节点](shell-node.md)
 - [创建工作流](workflow.md)
 - [运行节点](../manage-instance/run-node.md)
